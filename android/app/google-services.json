@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729817289202",
+    "project_id": "project-tracker-app-98591",
+    "storage_bucket": "project-tracker-app-98591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729817289202:android:065d01c1672bf4e9521b6b",
+        "android_client_info": {
+          "package_name": "com.uoit.project_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729817289202-b4go39m7gcqi61o6cg9n2purqnpc977p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1hdBy02MM-O6i4J7X6_Ojb0UYSTmIOyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729817289202-b4go39m7gcqi61o6cg9n2purqnpc977p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
